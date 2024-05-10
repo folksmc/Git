@@ -1,0 +1,4 @@
+APIVersion: v1
+    kind: pod
+    name: GIT_Teste
+    metadata:     
